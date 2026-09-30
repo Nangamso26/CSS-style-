@@ -1,0 +1,46 @@
+/* Stylesheet for all three pages */
+
+/* Styling the body */
+body {
+    font-family: Arial, sans-serif; /* Modify the font family */
+    font-size: 16px; /* Modify the font size */
+}
+
+/* Styling the header */
+header {
+    background-color: #f0f0f0; /* Modify the background color */
+}
+
+/* Styling the nav */
+nav {
+    background-color: #333; /* Modify the background color */
+}
+
+/* Styling the main */
+main {
+    background-color: #ffffff; /* Modify the background color */
+    font-size: 18px; /* Modify the font size */
+}
+
+/* Styling the footer */
+footer {
+    background-color: #f0f0f0; /* Modify the background color */
+}
+
+/* Styling the list items in nav */
+nav li {
+    display: inline-block; /* Modify the display */
+    width: auto; /* Modify the width */
+}
+
+/* Styling the h1 tag */
+h1 {
+    text-align: center; /* Modify the text alignment */
+    font-family: 'Georgia', serif; /* Modify the font family */
+    color: #333; /* Modify the color */
+}
+
+/* Styling the paragraph tag */
+p {
+    line-height: 1.5; /* Modify the line height */
+}
